@@ -50,14 +50,15 @@
     "uniqCompNum": 15,
     "versionPublish": "4.8.7",
     "favicon": "@PROJECT_PATH@/assets/images/atvcbzd0-400x400-128x128.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "vote.html": {
       "settings": {
         "main": true,
-        "title": "voting",
-        "meta_descr": "please vote yout best player",
+        "title": "Please Vote Your Best Player In Suzuki Cup",
+        "meta_descr": "Aung Thu (Myanmar) has 52.4% vote. Nguyen Anh Duc (Vietnam) has 46.85% vote. Sanrawat Dechmitr (Thailand) has 0.46% vote. Phil Younghusband (Philippines) has 0.11% vote.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
